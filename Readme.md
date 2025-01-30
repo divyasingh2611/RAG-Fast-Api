@@ -235,6 +235,3 @@ Common issues and solutions:
 3. Implement changes with tests
 4. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License.
